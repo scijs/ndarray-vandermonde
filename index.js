@@ -3,7 +3,6 @@
 var zeros = require('zeros'),
     fill = require('ndarray-fill');
 
-
 module.exports = function( x ) {
   if( x.dimension !== 1 ) {
     throw new TypeError('vandermonde: error: x must be a dimension-1 vector');

@@ -16,7 +16,7 @@ It's useful for least squares fits, among other things, in which you want a set 
 
 `vander( x [, N] [, reversed] )`
 
-`x` is a vector of numbers, `N` is the width of the resulting matrix (i.e. the highest power + 1), and `reversed` is a flag that will reverse the columns of the resulting matrix so that higher powers are on the left.
+`x` is a vector of numbers, `N` is the width of the resulting matrix (i.e. the highest power + 1; the resulting matrix is square by default), and `reversed` is a flag that will reverse the columns of the resulting matrix so that higher powers are on the left.
 
 For example,
 

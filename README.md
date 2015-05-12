@@ -1,6 +1,6 @@
 # ndarray-vandermonde
 
-[![Build Status](https://travis-ci.org/scijs/ndarray-vandermonde.svg?branch=1.0.0)](https://travis-ci.org/scijs/ndarray-vandermonde) [![npm version](https://badge.fury.io/js/ndarray-vandermonde.svg)](http://badge.fury.io/js/ndarray-vandermonde)
+[![Build Status](https://travis-ci.org/scijs/ndarray-vandermonde.svg?branch=master)](https://travis-ci.org/scijs/ndarray-vandermonde) [![npm version](https://badge.fury.io/js/ndarray-vandermonde.svg)](http://badge.fury.io/js/ndarray-vandermonde)
 
 Construct an ndarray vandermonde matrix
 
